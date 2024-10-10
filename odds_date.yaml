@@ -741,11 +741,151 @@
     Trump: 47.4
 '2024-09-26':
   '538':
-    Harris: 57.04
-    Trump: 42.59
+    Harris: 58.589999999999996
+    Trump: 41
   avg:
-    Harris: 53.72
-    Trump: 45.345
+    Harris: 54.495
+    Trump: 44.55
   rcp:
     Harris: 50.4
     Trump: 48.1
+'2024-09-27':
+  '538':
+    Harris: 56.84
+    Trump: 42.8
+  avg:
+    Harris: 53.92
+    Trump: 45.2
+  rcp:
+    Harris: 51.0
+    Trump: 47.6
+'2024-09-28':
+  '538':
+    Harris: 57.93000000000001
+    Trump: 41.69
+  avg:
+    Harris: 54.265
+    Trump: 44.845
+  rcp:
+    Harris: 50.6
+    Trump: 48.0
+'2024-09-29':
+  '538':
+    Harris: 58.79
+    Trump: 40.89
+  avg:
+    Harris: 54.595
+    Trump: 44.495000000000005
+  rcp:
+    Harris: 50.4
+    Trump: 48.1
+'2024-09-30':
+  '538':
+    Harris: 56.81
+    Trump: 42.78
+  avg:
+    Harris: 53.955
+    Trump: 45.19
+  rcp:
+    Harris: 51.1
+    Trump: 47.6
+'2024-10-01':
+  '538':
+    Harris: 54.96
+    Trump: 44.66
+  avg:
+    Harris: 52.68
+    Trump: 46.28
+  rcp:
+    Harris: 50.4
+    Trump: 47.9
+'2024-10-02':
+  '538':
+    Harris: 57.69
+    Trump: 41.94
+  avg:
+    Harris: 53.695
+    Trump: 45.42
+  rcp:
+    Harris: 49.7
+    Trump: 48.9
+'2024-10-03':
+  '538':
+    Harris: 56.02
+    Trump: 43.64
+  avg:
+    Harris: 52.81
+    Trump: 46.32
+  rcp:
+    Harris: 49.6
+    Trump: 49.0
+'2024-10-04':
+  '538':
+    Harris: 54.24
+    Trump: 45.39
+  avg:
+    Harris: 51.92
+    Trump: 47.195
+  rcp:
+    Harris: 49.6
+    Trump: 49.0
+'2024-10-05':
+  '538':
+    Harris: 54.53
+    Trump: 45.129999999999995
+  avg:
+    Harris: 51.965
+    Trump: 47.065
+  rcp:
+    Harris: 49.4
+    Trump: 49.0
+'2024-10-06':
+  '538':
+    Harris: 54.769999999999996
+    Trump: 44.85
+  avg:
+    Harris: 52.035
+    Trump: 47.125
+  rcp:
+    Harris: 49.3
+    Trump: 49.4
+'2024-10-07':
+  '538':
+    Harris: 55.300000000000004
+    Trump: 44.3
+  avg:
+    Harris: 51.45
+    Trump: 47.7
+  rcp:
+    Harris: 47.6
+    Trump: 51.1
+'2024-10-08':
+  '538':
+    Harris: 53.43
+    Trump: 46.2
+  avg:
+    Harris: 50.565
+    Trump: 48.55
+  rcp:
+    Harris: 47.7
+    Trump: 50.9
+'2024-10-09':
+  '538':
+    Harris: 52.190000000000005
+    Trump: 47.449999999999996
+  avg:
+    Harris: 49.595
+    Trump: 49.425
+  rcp:
+    Harris: 47.0
+    Trump: 51.4
+'2024-10-10':
+  '538':
+    Harris: 52.839999999999996
+    Trump: 46.73
+  avg:
+    Harris: 49.62
+    Trump: 49.364999999999995
+  rcp:
+    Harris: 46.4
+    Trump: 52.0
